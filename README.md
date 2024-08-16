@@ -1,3 +1,5 @@
+**Timeframe of Project: May 2024 - August 2024**
+
 **Project Description:**
 
 *   **Data Collection:** I started by obtaining the Bank Marketing dataset, which includes various customer attributes and whether they subscribed to a term deposit.
