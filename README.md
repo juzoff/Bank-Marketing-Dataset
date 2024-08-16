@@ -1,5 +1,7 @@
 **Timeframe of Project: May 2024 - August 2024**
 
+**Tools Used:** Python and SAS were primarily used for data preparation, modeling, and analysis.
+
 **Project Description:**
 
 *   **Data Collection:** I started by obtaining the Bank Marketing dataset, which includes various customer attributes and whether they subscribed to a term deposit.
@@ -26,4 +28,3 @@
 
 *   **Documentation and Reporting:** I documented the entire process, including code, methodology, and results, to ensure the project could be easily understood and replicated by others.
 
-**Tools Used:** Python and SAS were primarily used for data preparation, modeling, and analysis.
