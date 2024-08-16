@@ -8,3 +8,7 @@
 *   **Model Evaluation:** I evaluated the models on training and test sets using performance metrics like accuracy, precision, recall, and F1-score. I compared the results between the models trained on all attributes versus those trained on selected attributes to determine which approach led to better predictive performance. Visualizations were created to represent the differences in confusion matrix outputs and performance metrics between the models using all attributes and those using selected attributes. These visuals are located in the appendix for reference.
 *   **Hyperparameter Tuning:** To optimize the models, I adjusted hyperparameters, such as tree depth for the Decision Tree and smoothing parameters for Naive Bayes, to achieve the best possible performance.
 *   **Model Interpretation:** I analyzed the final models to interpret the importance of different features. For example, understanding which customer attributes (e.g., age, job, previous outcomes) had the most significant impact on subscription decisions.
+
+**Documentation and Reporting:**
+
+*   **Documentation and Reporting:** I documented the entire process, including code, methodology, and results, to ensure the project could be easily understood and replicated by others.
