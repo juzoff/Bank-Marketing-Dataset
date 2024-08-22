@@ -1,8 +1,8 @@
 **Note: This project is organized into multiple branches on GitHub, each correlating with a different portion of the assignment. To explore specific sections, please select the branch that corresponds to the task or analysis you are interested in. This structure allows for a focused review of each component of the project, making it easier to follow along with the data preparation, modeling, and evaluation processes.**
 
-**Project Description:**
+**Data Collection:**
 
-*   **Data Collection:** I started by obtaining the Bank Marketing dataset, which includes various customer attributes and whether they subscribed to a term deposit.
+*   I started by obtaining the Bank Marketing dataset, which includes various customer attributes and whether they subscribed to a term deposit.
 
 **Data Preparation:**
 
