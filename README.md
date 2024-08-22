@@ -6,9 +6,11 @@
 
 **Tools Used:** Python and SAS were primarily used for data preparation, modeling, and analysis.
 
-**Project Description:**
+**>THE PROJECT WAS DIVIDED INTO THE FOLLOWING PARTS:**
 
-*   **Data Collection:** I started by obtaining the Bank Marketing dataset, which includes various customer attributes and whether they subscribed to a term deposit.
+**Data Collection:**
+
+*   I started by obtaining the Bank Marketing dataset, which includes various customer attributes and whether they subscribed to a term deposit.
 
 **Data Preparation:**
 
